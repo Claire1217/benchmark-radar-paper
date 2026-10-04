@@ -13,6 +13,7 @@ import pytest
 EXPECTED_AUTHORS = {
     "Koutian Wu": ["Earth-Space-AI", "Tacite AI"],
     "Junjie Zhou": ["Hangzhou Dianzi University"],
+    "Wenjun Zhang": ["The University of Queensland"],
     "Ergan Shang": ["Carnegie Mellon University"],
     "Jiayu Wang": ["Xi'an Jiaotong University"],
     "Pengqian Han": ["The University of Auckland"],
